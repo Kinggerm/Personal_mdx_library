@@ -2,17 +2,17 @@
 
 ## 个人制作词库 (mdx make by my self)
 
-Flora of China (update: May 5, 2013)
+Flora of China (update: May 5, 2013) (source from efloras)
 
-植物学名解释 丁广奇、王学文 (Deciphering Latin in plant scientific names)
+植物学名解释 丁广奇、王学文 (source from an old book, Deciphering Latin in plant scientific names by Guangqi Ding and Xuewen Wang)
 
-Resources from Dictionary of Botanical Epithets
+Dictionary of Botanical Epithets (source from internet)
 
-ThePlantList1.0 (update: June 04, 2012)
+ThePlantList1.0 (update: June 04, 2012) (source from theplantlist)
 
-ThePlantList1.1 (update: March 12, 2013)
+ThePlantList1.1 (update: March 12, 2013) (source from theplantlist)
 
-These mdx could be also downloaded from <a href="https://pan.baidu.com/s/1mgivDZ6#list/path=%2F">here</a>.
+What I was doing was just convert the online available sources into mdx format that could be looked up offline in cell phone. These mdx could be also downloaded from <a href="https://pan.baidu.com/s/1mgivDZ6#list/path=%2F">here</a>.
 
 ## Mdict软件推荐 (Application suggestions)
 
