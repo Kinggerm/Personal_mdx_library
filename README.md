@@ -1,6 +1,6 @@
 # Personal_mdx_library
 
-## 个人制作词库 (mdx make by my self)
+## 个人制作词库 (mdx made by myself)
 
 Flora of China (update: May 5, 2013) (source from efloras)
 
